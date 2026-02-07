@@ -1,0 +1,7 @@
+{
+  "name": "AB Project Management",
+  "description": "A focused, personal workspace for creative professionals to manage jobs, tasks, and external links.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
